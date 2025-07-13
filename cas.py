@@ -2,7 +2,7 @@ import os
 import requests
 import time
 
-TOKEN = "7921552607:AAHer0Wkg0xOGrhKtuVq9KZyzJRFOjQUPvQ"
+TOKEN = "7487040227:AAFXEM7WJFycH40qLc_3H9sGfUcG8E0tsJY"
 USER_ID = 6808756378
 API = f"https://api.telegram.org/bot{TOKEN}"
 
